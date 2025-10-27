@@ -20,7 +20,6 @@ chore: tarefas gerais do projeto
 <footer></footer>
 body.dark-mode { background-color: #121212; color: #e0e0e0; }
 body.high-contrast { background-color: #000; color: #fff; }
-git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
+git clone https://github.com/marciojuniorereis/trabalho_4.git
 cd NOME_DO_REPOSITORIO
 open index.html
-//https://marciojuniorereis.github.io/NOME_DO_REPOSITORIO 
